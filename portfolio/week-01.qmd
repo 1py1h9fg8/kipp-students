@@ -1,0 +1,73 @@
+---
+title: "Character Map"
+week: 1
+status: "Siap dinilai"
+self_score: "15/ 20"
+assessor_score: "—"
+description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
+categories: [Fondasi, Person]
+---
+
+## Kompetensi target
+
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+
+## Evidence wajib
+
+- Lima character dari sedikitnya tiga domain kehidupan.
+- Objective, responsibility, repertoire, dan risiko tiap character.
+- Satu contoh perubahan language ketika character berubah.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+{{< include ../includes/evidence-template.md >}}
+
+## Lima character
+
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+|---|---|---|---|---|
+| Intra-Self — reflective learner | Diri sendiri setelah menerima feedback | Memisahkan kesalahan dari identitas dan memilih perbaikan | Jurnal fakta; "Bagian mana yang dapat saya ubah?" | Self-blame; tulis tiga fakta sebelum kesimpulan |
+| Family — anak | Orang tua yang menanyakan perkembangan kuliah | Memberi kabar jujur tanpa membuat mereka khawatir berlebihan | Jawaban jujur, ringkas, dan menenangkan | Menutup diri; ceritakan satu kabar baik dan satu tantangan |
+| Friends — sahabat | Teman dekat yang sedang kewalahan dengan tugas | Memberi dukungan sesuai kebutuhannya, bukan langsung memberi solusi | Listening; "Mau didengar dulu atau mencari solusi?" | Terlalu cepat memberi solusi; tunggu lima detik |
+| Work — anggota tim proyek | Empat rekan tugas kuliah | Membuat pembagian kerja dan tenggat yang eksplisit | Check-in, klarifikasi, konfirmasi tertulis | Terdengar memerintah; jelaskan kebutuhan bersama |
+| Community — anggota kepanitiaan | Pengurus dan anggota panitia lain | Membuka partisipasi dan mencapai keputusan layak | Round-robin, ringkasan, voting bila perlu | Hanya mendengar suara dominan; undang suara yang diam |
+
+## Episode yang dianalisis
+
+**Konteks:** Diskusi dalam mengerjakan tugas akhir bersama teman-teman kelompok dengan inisial GNMS dan RBAS terkait permasalahan pembagian tugas
+
+**Objective:** Beralih dari ketidakjelasan jadi pembagian kerja dan tenggat baru yang disepakati, sambil menjaga hubungan baik.
+
+> **Aku:** "Jadi untuk bagian kamu keliatannya masih kurang."  
+> **GNMS:** "Iya, kebanyakan yang numpuk tugasnya jadi nggak sempat"  
+> **Aku:** "Mmmm, kalo semisal aku bantu mau nggak?"  
+> **GNMS:** "Boleh banget."  
+> **Aku:** "Okay, kalo gitu nanti kasih tau yang mana aja yang kurang bisa nanti aku bantu."  
+
+Response teman GNMS mengakui kesulitannya. Agreement akhirnya: saya membantunya dalam bagian yang dia temukan kesulitan.
+
+## Perubahan language
+
+Sebagai **teman**, aku bakal bilang, "Kamu mau didengar dulu atau cari solusi bareng?" Sebagai **anggota tim**, aku bilang, "Tim butuh bagian ini sebelum edit; pembagian mana yang realistis?" Care inti tetap ada, tapi responsibility dan action beda.
+
+
+
+## Evidence, AI, dan feedback
+
+- Evidence: https://drive.google.com/file/d/1Si0eYoCffRevKLjzDzg_IS_mB6xCJK0e/view?usp=sharing
+- AI dipakai setelah menyepakati pembantuan buat misahin fakta dan asumsi. Nama asli nggak dimasukin.
+- Next practice: Saat rapat kelompok, aku akan menunggu sampai teman selesai bicara sebelum menawarkan bantuan, dan menanyakan 'bagian mana yang paling sulit?' sebelum langsung menawarkan diri.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Person & Character | [3] | Person, context, relationship, dan character dipetakan dengan jelas |
+| Objective & State | [3] | State awal (pembagian tugas belum jelas) dan tujuan (bantu bagian yang kurang) eksplisit |
+| Repertoire, Language & AI | [3] | Language berubah sesuai character; batas AI jelas |
+| Response & Adaptation | [3] | Informasi baru dari GNMS mengubah cara aku menawarkan bantuan |
+| Agreement, Action & Relationship | [3] | Owner dan deadline tercatat; hubungan kerja tetap terjaga |
+
+**Total: 15/ 20 — Kompoten**

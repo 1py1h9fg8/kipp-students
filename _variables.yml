@@ -1,0 +1,15 @@
+student:
+  name: "Tirta Wening Putri Harsono"
+  id: "18225023"
+  program: "Sistem dan Teknologi Informasi"
+  cohort: "2025"
+  email: "18225023@std.stei.itb.ac.id"
+
+course:
+  code: "KIPP-2"
+  name: "Komunikasi Inter Personal dan Publik"
+  lecturer: "Armein Z. R. Langi"
+  semester: "Semester 1 / Tahun Akademik 2026"
+
+repository:
+  url: "https://github.com/1py1h9fg8/kipp-students"
