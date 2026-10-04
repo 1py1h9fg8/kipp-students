@@ -9,6 +9,11 @@ execute:
   eval: false
 ---
 
+::: {.callout-note title="Catatan penggunaan contoh"}
+[Buka paket contoh Minggu 8](../week-08.qmd). Ujaran bahan awal dipertahankan; analisis di halaman Minggu 8 menjelaskan batas bukti. Percakapan yang tersedia tidak mencakup seluruh identifikasi, rencana awal, dan konfirmasi laporan. Klaim kapasitas tiga kali lipat, izin video pemerintah, dan tanpa risiko belum dibuktikan. Hari Jumat dan tanggal absolut perlu dikonfirmasi ulang. Skor penuh pada bahan lama tidak dijadikan nilai contoh atau nilai resmi. Versi 1.0/1.1 yang tertulis adalah versi laporan awal, bukan versi ZIP 2.0 saat ini. Mahasiswa harus melaporkan percakapannya sendiri.
+:::
+
+
 # A) Identitas
 
 | Elemen | Keterangan |
@@ -21,7 +26,7 @@ execute:
 | Versi bank/aturan penugasan | Bank 1.0; paket 1.1; penugasan dalam PENUGASAN.md |
 | Modalitas | Teks |
 | Kasus nyata/fiktif | Fiktif (Simulasi berbasis bank profil KIPP) |
-| Kelengkapan transkrip | Lengkap (seluruh interaksi dari identifikasi hingga konfirmasi tercatat utuh) |
+| Kelengkapan transkrip | Parsial: simulasi awal, evaluasi, uji ulang dan refleksi tersedia; identifikasi lengkap, dugaan awal dan konfirmasi laporan tidak tercantum |
 
 # B) Kasus dan Tujuan
 
@@ -114,7 +119,7 @@ execute:
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-Tujuan tindakan **tercapai secara optimal**. Komunikan menyepakati uji coba/demo konkret tanpa paksaan pembelian, dengan alokasi waktu dan kehadiran staf yang jelas.
+Tujuan percakapan **tercapai terbatas pada kesepakatan demo dalam simulasi**. Komunikan menyepakati uji coba/demo konkret tanpa paksaan pembelian, dengan alokasi waktu dan kehadiran staf yang jelas.
 
 | Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
@@ -131,31 +136,31 @@ Tujuan tindakan **tercapai secara optimal**. Komunikan menyepakati uji coba/demo
 | E2 (U003–AI003) | Ali ingin tahu batas kemampuan dan prosedur AI (Knowledge). | Menjelaskan konsep agen AI yang dilatih bersama meniru staf. | Mengakui konsep menarik tapi minta kejelasan bentuk latihan dan akurasi. | Knowledge mulai terbuka; Attitude melunak. | Mahasiswa mengusulkan rencana tahapan mingguan yang terstruktur. |
 | E3 (U004–AI004) | Ali butuh langkah kecil dan pelatihan dasar (Skill). | Memberikan roadmap 3 tahap (rekam, dampingi, gandakan). | Mengapresiasi keteraturan tetapi meminta demo kecil awal agar staf tidak kaget. | Hambatan Skill terartikulasi jelas; butuh rasa aman. | Mahasiswa langsung menyetujui demo fiktif dan video transisi. |
 | E4 (U005–AI006) | Ali siap mengambil keputusan awal jika tanpa risiko (Action). | Menawarkan demo proses baku fiktif dan jadwal hari Jumat saat santai. | Menyetujui sesi 45 menit hari Jumat jam 14.00 bersama dua stafnya. | Action tercapai; Attitude aman; Knowledge terarah. | Kesepakatan tercapai, siap masuk uji ulang. |
-| E5 / Uji Ulang (U008–AI008) | Kendala baru: staf senior panik takut salah pencet/gaptek (Skill/Attitude). | Memvalidasi kecemasan wajar, menjelaskan kesamaan tampilan, dan analogi soal ujian (essay ke multiple choice). | Sangat lega; memuji analogi; memastikan kehadiran staf pada demo Jumat. | Hambatan Skill dan kecemasan teredam tuntas; komitmen Action diperkuat. | Adaptasi komunikasi sangat efektif melalui analogi pengalaman umum. |
+| E5 / Uji Ulang (U008–AI008) | Kendala baru: staf senior panik takut salah pencet/gaptek (Skill/Attitude). | Memvalidasi kecemasan wajar, menjelaskan kesamaan tampilan, dan analogi soal ujian (essay ke multiple choice). | Sangat lega; memuji analogi; memastikan kehadiran staf pada demo Jumat. | Kecemasan dilaporkan berkurang; komitmen demo diperkuat, skill operasional belum diuji. | Adaptasi komunikasi sangat efektif melalui analogi pengalaman umum. |
 
 ## Uji ulang dan pembelajaran
 
-Pada tahap uji ulang, dihadirkan resistensi operasional nyata dari staf senior yang cemas akan kehilangan data atau ketidakmampuan beradaptasi dengan AI. Mahasiswa tidak memaksakan argumen kecanggihan sistem, melainkan:
+Pada tahap uji ulang, dihadirkan kendala hipotetis dari staf senior yang cemas akan kehilangan data atau ketidakmampuan beradaptasi dengan AI. Mahasiswa tidak memaksakan argumen kecanggihan sistem, melainkan:
 1. Memvalidasi bahwa ketakutan tersebut wajar (*empathy first*).
 2. Memberikan jaminan teknis bahwa tampilan antarmuka dibuat persis sama (*familiarity*).
 3. Menggunakan analogi berbasis pengalaman umum (mengubah soal essay menjadi pilihan ganda/pemeriksaan), yang memperjelas bahwa staf memegang kendali penuh (*human oversight*).
 
-Hasil uji ulang membuktikan keberhasilan transfer repertoar komunikasi edukatif yang adaptif.
+Uji ulang menunjukkan adaptasi komunikasi pada situasi hipotetis yang terkait; transfer ke interaksi nyata belum dibuktikan.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
-|---|---|---|---|
-| Tujuan dan konteks | 4 | U006: "bisakah dua hari lagi? kebetulanitu hari jumat..."; AI006 | Tujuan uji coba tercapai dengan menetapkan hari, jam, audiens, dan batas lingkup yang realistis. |
-| Persepsi dan validasi profil/status | 4 | U008: "wah itu kecemasan yang sangat wajar..."; AI008 | Mampu membaca hambatan rasa takut staf dan kebutuhan harmoni tokoh INFP secara akurat. |
-| Pemilihan dan urutan repertoar | 4 | U004, U005, U008 | Urutan stimulus bergerak runtut dari tahapan implementasi, tawaran demo fiktif, hingga analogi kognitif. |
-| Eksekusi jelas dan tulus | 4 | U008: "...Sistem kita mengubah soal dari esay ke true false, multiple choice, dan fill in the blank." | Bahasa membumi, tulus mengakui kekhawatiran klien, dan tidak memaksa penjualan. |
-| Evaluasi dan adaptasi | 4 | U007, U008 | Mampu mengevaluasi perlunya meredakan kegamangan staf saat uji ulang tanpa defensif. |
-| Refleksi dan lesson learned | 4 | U009: "...analogi soal ujian tadi sangat pas... selama saya menggunakan hanya pengalaman saya... tidak banyak berdampak." | Refleksi kritis tajam; menyadari batasan stimulus otoritatif vs stimulus berbasis empati/analogi umum. |
+Penilaian numerik bahan awal ditangguhkan untuk contoh ini. Kesepakatan bukan alasan memberi seluruh dimensi skor penuh. Skor 1-4 memerlukan indikator tingkat dan bukti memadai; BT berarti belum dapat ditetapkan, bukan nol. Nilai resmi tetap memerlukan moderasi dosen.
 
-**Nilai Usulan AI:**  
-$$\text{Nilai} = \frac{4 + 4 + 4 + 4 + 4 + 4}{24} \times 100 = \frac{24}{24} \times 100 = 100$$  
-*(Catatan: Nilai ini merupakan usulan berbasis rubrik asesmen dan memerlukan moderasi resmi oleh dosen pengampu).*
+| Dimensi | Skor 1-4/BT | Bukti yang dapat diperiksa | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | BT | U006-AI006 | Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia |
+| Persepsi dan validasi profil/status | BT | AI002-AI004 | Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia |
+| Pemilihan dan urutan repertoar | BT | U004-U006 | Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia |
+| Eksekusi jelas, peduli dan konsisten | BT | U008-AI008 | Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia |
+| Evaluasi dan adaptasi | BT | U007-U008 | Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia |
+| Refleksi dan lesson learned | BT | U009 | Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia |
+
+Nilai sesi dan agregasi belum dihitung.
 
 ## Refleksi dan lesson learned mahasiswa
 
@@ -165,7 +170,9 @@ $$\text{Nilai} = \frac{4 + 4 + 4 + 4 + 4 + 4}{24} \times 100 = \frac{24}{24} \ti
 
 ## Tindak lanjut dan batas bukti
 
-- **Tindak Lanjut Nyata:** Melaksanakan demo pada hari Jumat pukul 14.00 selama 45 menit bersama Ali dan dua staf operasional menggunakan data contoh fiktif.
+Hari Jumat dan ungkapan relatif ?dua hari lagi? dalam kutipan tidak cocok dengan tanggal laporan 3 Oktober 2026. Kutipan dipertahankan; tanggal absolut demo belum terkonfirmasi. Klaim izin tayang video karena berasal dari kantor pemerintah juga belum dibuktikan. Klaim kapasitas 3x adalah usulan, bukan hasil pengukuran.
+
+- **Rencana tindak lanjut dalam simulasi:** Melaksanakan demo pada hari Jumat pukul 14.00 selama 45 menit bersama Ali dan dua staf operasional menggunakan data contoh fiktif.
 - **Batas Bukti:** 
   1. Interaksi ini berbasis simulasi teks yang merekam isi pernyataan, bukan intonasi suara atau bahasa tubuh non-verbal.
   2. Penerimaan Ali merupakan representasi simulasi kesiapan; adopsi sebenarnya di dunia nyata tetap bergantung pada keberhasilan teknis dan penerimaan psikologis staf lapangan saat demo berlangsung.

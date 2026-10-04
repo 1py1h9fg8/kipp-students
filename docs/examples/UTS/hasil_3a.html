@@ -76,35 +76,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -261,7 +232,7 @@ window.Quarto = {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../examples/week-08.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Contoh Minggu 8 — UTS Performance</span></a>
+ <span class="menu-text">Contoh Minggu 8 — Jawaban UTS KIPP 2026</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -372,6 +343,19 @@ window.Quarto = {
 </header>
 
 
+<div class="callout callout-style-default callout-note callout-titled" title="Catatan penggunaan contoh">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Catatan</span>Catatan penggunaan contoh
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><a href="../../examples/week-08.html">Buka paket contoh Minggu 8</a>. Ujaran bahan awal dipertahankan; analisis di halaman Minggu 8 menjelaskan batas bukti. Percakapan yang tersedia tidak mencakup seluruh identifikasi, rencana awal, dan konfirmasi laporan. Klaim kapasitas tiga kali lipat, izin video pemerintah, dan tanpa risiko belum dibuktikan. Hari Jumat dan tanggal absolut perlu dikonfirmasi ulang. Skor penuh pada bahan lama tidak dijadikan nilai contoh atau nilai resmi. Versi 1.0/1.1 yang tertulis adalah versi laporan awal, bukan versi ZIP 2.0 saat ini. Mahasiswa harus melaporkan percakapannya sendiri.</p>
+</div>
+</div>
 <section id="a-identitas" class="level1">
 <h1>A) Identitas</h1>
 <table class="caption-top table">
@@ -420,7 +404,7 @@ window.Quarto = {
 </tr>
 <tr class="odd">
 <td>Kelengkapan transkrip</td>
-<td>Lengkap (seluruh interaksi dari identifikasi hingga konfirmasi tercatat utuh)</td>
+<td>Parsial: simulasi awal, evaluasi, uji ulang dan refleksi tersedia; identifikasi lengkap, dugaan awal dan konfirmasi laporan tidak tercantum</td>
 </tr>
 </tbody>
 </table>
@@ -597,7 +581,7 @@ window.Quarto = {
 <h1>D) Hasil, Evaluasi, dan Refleksi</h1>
 <section id="hasil-tujuan-dan-perubahan-swotask" class="level2">
 <h2 class="anchored" data-anchor-id="hasil-tujuan-dan-perubahan-swotask">Hasil tujuan dan perubahan SWOT/ASK</h2>
-<p>Tujuan tindakan <strong>tercapai secara optimal</strong>. Komunikan menyepakati uji coba/demo konkret tanpa paksaan pembelian, dengan alokasi waktu dan kehadiran staf yang jelas.</p>
+<p>Tujuan percakapan <strong>tercapai terbatas pada kesepakatan demo dalam simulasi</strong>. Komunikan menyepakati uji coba/demo konkret tanpa paksaan pembelian, dengan alokasi waktu dan kehadiran staf yang jelas.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -706,7 +690,7 @@ window.Quarto = {
 <td>Kendala baru: staf senior panik takut salah pencet/gaptek (Skill/Attitude).</td>
 <td>Memvalidasi kecemasan wajar, menjelaskan kesamaan tampilan, dan analogi soal ujian (essay ke multiple choice).</td>
 <td>Sangat lega; memuji analogi; memastikan kehadiran staf pada demo Jumat.</td>
-<td>Hambatan Skill dan kecemasan teredam tuntas; komitmen Action diperkuat.</td>
+<td>Kecemasan dilaporkan berkurang; komitmen demo diperkuat, skill operasional belum diuji.</td>
 <td>Adaptasi komunikasi sangat efektif melalui analogi pengalaman umum.</td>
 </tr>
 </tbody>
@@ -714,11 +698,12 @@ window.Quarto = {
 </section>
 <section id="uji-ulang-dan-pembelajaran" class="level2">
 <h2 class="anchored" data-anchor-id="uji-ulang-dan-pembelajaran">Uji ulang dan pembelajaran</h2>
-<p>Pada tahap uji ulang, dihadirkan resistensi operasional nyata dari staf senior yang cemas akan kehilangan data atau ketidakmampuan beradaptasi dengan AI. Mahasiswa tidak memaksakan argumen kecanggihan sistem, melainkan: 1. Memvalidasi bahwa ketakutan tersebut wajar (<em>empathy first</em>). 2. Memberikan jaminan teknis bahwa tampilan antarmuka dibuat persis sama (<em>familiarity</em>). 3. Menggunakan analogi berbasis pengalaman umum (mengubah soal essay menjadi pilihan ganda/pemeriksaan), yang memperjelas bahwa staf memegang kendali penuh (<em>human oversight</em>).</p>
-<p>Hasil uji ulang membuktikan keberhasilan transfer repertoar komunikasi edukatif yang adaptif.</p>
+<p>Pada tahap uji ulang, dihadirkan kendala hipotetis dari staf senior yang cemas akan kehilangan data atau ketidakmampuan beradaptasi dengan AI. Mahasiswa tidak memaksakan argumen kecanggihan sistem, melainkan: 1. Memvalidasi bahwa ketakutan tersebut wajar (<em>empathy first</em>). 2. Memberikan jaminan teknis bahwa tampilan antarmuka dibuat persis sama (<em>familiarity</em>). 3. Menggunakan analogi berbasis pengalaman umum (mengubah soal essay menjadi pilihan ganda/pemeriksaan), yang memperjelas bahwa staf memegang kendali penuh (<em>human oversight</em>).</p>
+<p>Uji ulang menunjukkan adaptasi komunikasi pada situasi hipotetis yang terkait; transfer ke interaksi nyata belum dibuktikan.</p>
 </section>
 <section id="penilaian-enam-dimensi" class="level2">
 <h2 class="anchored" data-anchor-id="penilaian-enam-dimensi">Penilaian enam dimensi</h2>
+<p>Penilaian numerik bahan awal ditangguhkan untuk contoh ini. Kesepakatan bukan alasan memberi seluruh dimensi skor penuh. Skor 1-4 memerlukan indikator tingkat dan bukti memadai; BT berarti belum dapat ditetapkan, bukan nol. Nilai resmi tetap memerlukan moderasi dosen.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 25%">
@@ -729,53 +714,51 @@ window.Quarto = {
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th>Skor 1–4/BT</th>
-<th>ID dan kutipan bukti</th>
+<th>Skor 1-4/BT</th>
+<th>Bukti yang dapat diperiksa</th>
 <th>Alasan</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Tujuan dan konteks</td>
-<td>4</td>
-<td>U006: “bisakah dua hari lagi? kebetulanitu hari jumat…”; AI006</td>
-<td>Tujuan uji coba tercapai dengan menetapkan hari, jam, audiens, dan batas lingkup yang realistis.</td>
+<td>BT</td>
+<td>U006-AI006</td>
+<td>Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia</td>
 </tr>
 <tr class="even">
 <td>Persepsi dan validasi profil/status</td>
-<td>4</td>
-<td>U008: “wah itu kecemasan yang sangat wajar…”; AI008</td>
-<td>Mampu membaca hambatan rasa takut staf dan kebutuhan harmoni tokoh INFP secara akurat.</td>
+<td>BT</td>
+<td>AI002-AI004</td>
+<td>Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia</td>
 </tr>
 <tr class="odd">
 <td>Pemilihan dan urutan repertoar</td>
-<td>4</td>
-<td>U004, U005, U008</td>
-<td>Urutan stimulus bergerak runtut dari tahapan implementasi, tawaran demo fiktif, hingga analogi kognitif.</td>
+<td>BT</td>
+<td>U004-U006</td>
+<td>Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia</td>
 </tr>
 <tr class="even">
-<td>Eksekusi jelas dan tulus</td>
-<td>4</td>
-<td>U008: “…Sistem kita mengubah soal dari esay ke true false, multiple choice, dan fill in the blank.”</td>
-<td>Bahasa membumi, tulus mengakui kekhawatiran klien, dan tidak memaksa penjualan.</td>
+<td>Eksekusi jelas, peduli dan konsisten</td>
+<td>BT</td>
+<td>U008-AI008</td>
+<td>Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia</td>
 </tr>
 <tr class="odd">
 <td>Evaluasi dan adaptasi</td>
-<td>4</td>
-<td>U007, U008</td>
-<td>Mampu mengevaluasi perlunya meredakan kegamangan staf saat uji ulang tanpa defensif.</td>
+<td>BT</td>
+<td>U007-U008</td>
+<td>Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia</td>
 </tr>
 <tr class="even">
 <td>Refleksi dan lesson learned</td>
-<td>4</td>
-<td>U009: “…analogi soal ujian tadi sangat pas… selama saya menggunakan hanya pengalaman saya… tidak banyak berdampak.”</td>
-<td>Refleksi kritis tajam; menyadari batasan stimulus otoritatif vs stimulus berbasis empati/analogi umum.</td>
+<td>BT</td>
+<td>U009</td>
+<td>Ada bukti sebagian; transkrip peserta tidak lengkap dan indikator tingkat numerik tidak tersedia</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Nilai Usulan AI:</strong><br>
-<span class="math display">\[\text{Nilai} = \frac{4 + 4 + 4 + 4 + 4 + 4}{24} \times 100 = \frac{24}{24} \times 100 = 100\]</span><br>
-<em>(Catatan: Nilai ini merupakan usulan berbasis rubrik asesmen dan memerlukan moderasi resmi oleh dosen pengampu).</em></p>
+<p>Nilai sesi dan agregasi belum dihitung.</p>
 </section>
 <section id="refleksi-dan-lesson-learned-mahasiswa" class="level2">
 <h2 class="anchored" data-anchor-id="refleksi-dan-lesson-learned-mahasiswa">Refleksi dan lesson learned mahasiswa</h2>
@@ -787,8 +770,9 @@ window.Quarto = {
 </section>
 <section id="tindak-lanjut-dan-batas-bukti" class="level2">
 <h2 class="anchored" data-anchor-id="tindak-lanjut-dan-batas-bukti">Tindak lanjut dan batas bukti</h2>
+<p>Hari Jumat dan ungkapan relatif ?dua hari lagi? dalam kutipan tidak cocok dengan tanggal laporan 3 Oktober 2026. Kutipan dipertahankan; tanggal absolut demo belum terkonfirmasi. Klaim izin tayang video karena berasal dari kantor pemerintah juga belum dibuktikan. Klaim kapasitas 3x adalah usulan, bukan hasil pengukuran.</p>
 <ul>
-<li><strong>Tindak Lanjut Nyata:</strong> Melaksanakan demo pada hari Jumat pukul 14.00 selama 45 menit bersama Ali dan dua staf operasional menggunakan data contoh fiktif.</li>
+<li><strong>Rencana tindak lanjut dalam simulasi:</strong> Melaksanakan demo pada hari Jumat pukul 14.00 selama 45 menit bersama Ali dan dua staf operasional menggunakan data contoh fiktif.</li>
 <li><strong>Batas Bukti:</strong>
 <ol type="1">
 <li>Interaksi ini berbasis simulasi teks yang merekam isi pernyataan, bukan intonasi suara atau bahasa tubuh non-verbal.</li>

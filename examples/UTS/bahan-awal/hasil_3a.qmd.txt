@@ -9,6 +9,11 @@ execute:
   eval: false
 ---
 
+::: {.callout-note title="Catatan penggunaan contoh"}
+[Buka paket contoh Minggu 8](../week-08.qmd). Ujaran bahan awal dipertahankan; analisis di halaman Minggu 8 menjelaskan batas bukti. Percakapan yang tersedia tidak mencakup seluruh identifikasi, rencana awal, dan konfirmasi laporan. Klaim kapasitas tiga kali lipat, izin video pemerintah, dan tanpa risiko belum dibuktikan. Hari Jumat dan tanggal absolut perlu dikonfirmasi ulang. Skor penuh pada bahan lama tidak dijadikan nilai contoh atau nilai resmi. Versi 1.0/1.1 yang tertulis adalah versi laporan awal, bukan versi ZIP 2.0 saat ini. Mahasiswa harus melaporkan percakapannya sendiri.
+:::
+
+
 # A) Identitas
 
 | Elemen | Keterangan |
