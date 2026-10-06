@@ -30,6 +30,10 @@ Pra-UTS menghasilkan satu makalah; UTS menghasilkan lima laporan yang dijalankan
 Paket ZIP contoh yang tersedia saat penyusunan memakai bank/paket **2.0**, tanpa password. Petunjuk umum di folder `lk` masih menyebut versi sebelumnya yang berpassword. Paket menyatakan prioritas `PENUGASAN.md`, kemudian prompt umum, profil, dan template. Baca paket aktif; jangan mengubah target atau versi laporan lama secara diam-diam. Bila ZIP tidak terbaca, ekstrak empat berkasnya ke folder terpisah per sesi.
 :::
 
+::: {.callout-note title="Strategi UTS"}
+Baca dokumen [konsep UTS](UTS/konsep-dan-strategi-uts-kipp-v2.qmd) sebelum mengerjakan UTS agar berhasil.
+:::
+
 ## Pra-UTS: makalah akademik
 
 [Makalah contoh](UTS/paper.qmd) menjawab keempat pertanyaan melalui definisi, pembahasan kritis, tabel penerapan, dan daftar pustaka.
