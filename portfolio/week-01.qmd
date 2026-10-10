@@ -62,7 +62,7 @@ Sebagai **teman**, aku bakal bilang, "Kamu mau didengar dulu atau cari solusi ba
 
 ## Evidence, AI, dan feedback
 
-- Evidence: https://drive.google.com/file/d/1Si0eYoCffRevKLjzDzg_IS_mB6xCJK0e/view?usp=sharing
+- Evidence: [Evidence-WEEK1.pdf](Evidence-WEEK1.pdf)
 - AI dipakai setelah menyepakati pembantuan buat misahin fakta dan asumsi. Nama asli nggak dimasukin.
 - Next practice: Saat rapat kelompok, aku akan menunggu sampai teman selesai bicara sebelum menawarkan bantuan, dan menanyakan 'bagian mana yang paling sulit?' sebelum langsung menawarkan diri.
 
