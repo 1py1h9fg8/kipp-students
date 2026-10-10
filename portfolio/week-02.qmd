@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dimilai"
+self_score: "15/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -23,3 +23,54 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 :::
 
 {{< include ../includes/evidence-template.md >}}
+## Episode
+
+**Event:** Bagian esai yang menjadi tanggung jawab Rekan A belum ditulis hingga batas waktu.
+
+| Lapisan | Catatan |
+|---|---|
+| Fact | Bagian esai belum ditulis dan belum diperiksa tata bahasanya oleh Rekan A hingga 08 Oktober 2026 pukul 07.15 |
+| Initial story | "Esai tidak akan selesai tepat waktu, jadi saya harus buru-buru membantu" |
+| Emotion/body signal | Cemas 7/10, kecewa 5/10, dada sesak, napas pendek, tangan gemetar |
+| Reactive character | "Helper" yang ingin langsung mengerjakan bagian Rekan A |
+| Desired character | "Facilitator" yang menanyakan kesulitan sebelum menawarkan bantuan |
+
+Initial story melampaui fakta: fakta hanya menyebut bagian belum ditulis, bukan bahwa seluruh esai akan gagal atau bahwa Rekan A tidak mampu.
+
+## Alternative narratives
+
+1. **Skill gap:** Rekan A mungkin kesulitan memahami materi esai, sehingga butuh bantuan tapi tidak menyampaikannya.
+2. **Personal constraint:** Rekan A mungkin menghadapi masalah pribadi atau kesehatan yang menghambat pengerjaan.
+3. **Miscommunication:** Mungkin ada kesalahpahaman tentang pembagian tugas, dan Rekan A mengira bagian itu bukan tanggung jawabnya.
+
+Alternative pertama paling berguna karena sesuai fakta dan menghasilkan tindakan (menawarkan bantuan) tanpa berpura-pura bahwa keterlambatan itu menyenangkan.
+
+## Internal conversation dan agreement
+
+> **Helper:** "Kerjakan saja bagiannya sekarang supaya cepat selesai."  
+> **Facilitator:** "Kita belum tahu kenapa belum dikerjakan. Tanya dulu kesulitannya sebelum mengambil alih."  
+> **Saya:** "Saya akan menunda mengambil alih, menulis fakta, lalu mengirim satu pertanyaan tentang bagian mana yang paling sulit."
+
+**Internal agreement:** sebelum pukul 08.00, saya mengirim satu pesan WhatsApp kepada Rekan A yang menanyakan kesulitan dan menawarkan bantuan bersama.
+
+## Evidence tindakan
+
+- Evidence: [Evidence-WEEK2.pdf](Evidence-WEEK2.pdf)
+
+## Feedback, AI, dan refleksi
+
+Teman observer menandai kalimat "esai tidak akan selesai" sebagai story, bukan fact. AI hanya digunakan untuk menawarkan pertanyaan pemisah fakta/asumsi; identitas Rekan A tidak diunggah.
+
+Next practice: ketika menghadapi keterlambatan, saya akan menulis tiga kolom — `fact`, `story`, `next question` — sebelum merespons.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Dua internal character dibedakan tanpa menjadikannya identitas tetap |
+| Objective & State | 3 | Reaction dan desired response terukur |
+| Repertoire, Language & AI | 3 | Jurnal, pause, dan clarification digunakan |
+| Response & Adaptation | 3 | Respons berubah dari mengambil alih menjadi menanyakan dulu |
+| Agreement, Action & Relationship | 3 | Internal agreement menghasilkan pesan dan tawaran bantuan |
+
+**Total: 15/20 — Kompeten.**
