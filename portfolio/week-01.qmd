@@ -1,8 +1,13 @@
 ---
 title: "Character Map"
 week: 1
+<<<<<<< HEAD
 status: "Siap dinilai"
 self_score: "15/ 20"
+=======
+status: "Belum dimulai"
+self_score: "—"
+>>>>>>> 2bfd0232afa4e37932d5395f7beaaed054577d30
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -23,6 +28,7 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 :::
 
 {{< include ../includes/evidence-template.md >}}
+<<<<<<< HEAD
 
 ## Lima character
 
@@ -71,3 +77,5 @@ Sebagai **teman**, aku bakal bilang, "Kamu mau didengar dulu atau cari solusi ba
 | Agreement, Action & Relationship | [3] | Owner dan deadline tercatat; hubungan kerja tetap terjaga |
 
 **Total: 15/ 20 — Kompoten**
+=======
+>>>>>>> 2bfd0232afa4e37932d5395f7beaaed054577d30

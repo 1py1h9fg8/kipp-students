@@ -1,15 +1,31 @@
 student:
+<<<<<<< HEAD
   name: "Tirta Wening Putri Harsono"
   id: "18225023"
   program: "Sistem dan Teknologi Informasi"
   cohort: "2025"
   email: "18225023@std.stei.itb.ac.id"
+=======
+  name: "Nama Mahasiswa"
+  id: "NIM"
+  program: "Program Studi"
+  cohort: "Angkatan"
+  email: "nama@kampus.ac.id"
+>>>>>>> 2bfd0232afa4e37932d5395f7beaaed054577d30
 
 course:
   code: "KIPP-2"
   name: "Komunikasi Inter Personal dan Publik"
   lecturer: "Armein Z. R. Langi"
+<<<<<<< HEAD
   semester: "Semester 1 / Tahun Akademik 2026"
 
 repository:
   url: "https://github.com/1py1h9fg8/kipp-students"
+=======
+  semester: "Semester / Tahun Akademik"
+
+repository:
+  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+
+>>>>>>> 2bfd0232afa4e37932d5395f7beaaed054577d30

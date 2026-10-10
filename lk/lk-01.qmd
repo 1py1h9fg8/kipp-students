@@ -56,11 +56,19 @@ Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
 
 | Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
 |:-----------------|:-----------------|:-----------------|:-----------------|
+<<<<<<< HEAD
 | **1. Diri Sendiri** | Reflektor batin | Diri sendiri | Mengatur emosi, motivasi, jujur sama diri sendiri |
 | **2. Keluarga / Sahabat** | Anak & sahabat pendengar | Ortu, sahabat dekat | Hadir emosional, dengerin tanpa menghakimi |
 | **3. Profesional / Akademik** | Mahasiswa & anggota tim proyek | Dosen, teman kelompok | Nyelesaiin tugas, koordinasi, bagi kerjaan |
 | **4. Komunitas / Kelompok** | Anggota kepanitiaan & klub | Panitia lain | Rapat, bagi tugas, jaga komitmen |
 | **5. Dunia / Publik** | Kontributor gagasan | Publik luas (media sosial, presentasi) | Nyampein ide secara bertanggung jawab |
+=======
+| **1. Diri Sendiri** |  |  |  |
+| **2. Keluarga / Sahabat** |  |  |  |
+| **3. Profesional / Akademik** |  |  |  |
+| **4. Komunitas / Kelompok** |  |  |  |
+| **5. Dunia / Publik** |  |  |  |
+>>>>>>> 2bfd0232afa4e37932d5395f7beaaed054577d30
 
 ### Bagian B: Analisis Kontras Dua Peran Utama \[136\]
 
@@ -68,18 +76,28 @@ Pilih dua peran dari tabel di atas yang paling kontras atau menantang (misalnya:
 
 | Unsur Komunikasi | Peran A: \[Tulis Nama Peran A\] | Peran B: \[Tulis Nama Peran B\] |
 |:-----------------------|:-----------------------|:-----------------------|
+<<<<<<< HEAD
 | **1. Tujuan Tugas & Relasi** \[128\] | Nyelesaiin tugas tepat waktu, sepakat sama tim | Bikin teman ngerasa didengar & dipahami |
 | **2. Repertoar Utama** \[129\] |Negosiasi, tanya, klarifikasi, bagi tugas	  | Mendengarkan aktif, validasi perasaan |
 | **3. Pilihan Bahasa & Nada** \[130\] | Langsung, fokus solusi, bahasa teknis	 | Lembut, empatik, nggak menghakimi |
 | **4. Respons yang Harus Dibaca** \[131\] | Ekspresi bingung/nggak setuju dari teman | Bahasa tubuh, nada suara, emosi yang nggak diucapin |
 | **5. Tindakan yang Diharapkan** \[131\] | Deliverable selesai, rapat efektif	 | Teman ngerasa lega & diperhatikan |
 | **6. Relasi yang Harus Dirawat** \[131\] | Kepercayaan & profesionalisme tim | Kedekatan & kepercayaan emosional |
+=======
+| **1. Tujuan Tugas & Relasi** \[128\] |  |  |
+| **2. Repertoar Utama** \[129\] |  |  |
+| **3. Pilihan Bahasa & Nada** \[130\] |  |  |
+| **4. Respons yang Harus Dibaca** \[131\] |  |  |
+| **5. Tindakan yang Diharapkan** \[131\] |  |  |
+| **6. Relasi yang Harus Dirawat** \[131\] |  |  |
+>>>>>>> 2bfd0232afa4e37932d5395f7beaaed054577d30
 
 ### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan \[351\]
 
 Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran B.2 \[351\]:
 
 1.  **Nilai Utama:** Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi Anda sehari-hari? (Contoh: ketulusan, kejujuran, penghargaan, atau keadilan) \[351\]
+<<<<<<< HEAD
     - *Jawaban:* Ketulisan dan kejujuran
 2.  **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini? \[351\]
     - *Jawaban:* Saya cukup sabar dan bisa mendengar orang
@@ -92,6 +110,20 @@ Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran
     - *Sasaran Saya:* Ketika ada rekan tim yang telat ngumpulin bagiannya, saya akan ngomong langsung di rapat: 'Aku perhatiin bagian ini belum masuk, gimana rencana kamu buat nyelesaiin?' tanpa nunda atau ngegosip di belakang
 6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini? \[351\]
     - *Jawaban:* ECA
+=======
+    - *Jawaban:*
+2.  **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini? \[351\]
+    - *Jawaban:*
+3.  **Pola Hambatan Otomatis:** Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman? \[351\]
+    - *Jawaban:*
+4.  **Ketegangan Peran & Kepribadian:** Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda \[136\] (gunakan pola: *"Saya cenderung \[kepribadian\], tetapi peran saya sebagai \[nama peran\] menuntut saya untuk \[perilaku komunikasi\]"*).
+    - *Jawaban:*
+5.  **Sasaran Pertumbuhan Perilaku Terukur:** Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan \[109, 351\].
+    - *Aturan perumusan:* Jangan menulis sasaran abstrak (seperti "Saya ingin menjadi komunikator hebat") \[109\]. Tulislah sasaran mikro yang nyata, misalnya: *"Ketika seorang teman sedang bercerita, saya akan menahan diri untuk tidak langsung memotong atau memberi solusi selama 3 menit pertama. Saya akan merangkum maknanya dan memvalidasi perasaannya terlebih dahulu."* \[109\]
+    - *Sasaran Saya:*
+6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini? \[351\]
+    - *Jawaban:*
+>>>>>>> 2bfd0232afa4e37932d5395f7beaaed054577d30
 
 ------------------------------------------------------------------------
 
@@ -99,10 +131,17 @@ Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran
 
 Gunakan rubrik berikut (diadaptasi dari *Rubrik Kinerja Kriteria 1: Pengenalan Pribadi dan Karakter* \[360\] serta *Rubrik Laboratorium* \[138\]) untuk memeriksa apakah Peta Karakter Anda telah memenuhi standar kualitas akademik:
 
+<<<<<<< HEAD
 - **Tingkat Unggul (Skor 4):** Selama 4 minggu kedepan, saya akan menahan diri untuk tidak memotong orang lain saat memberi pendapat, terutama saat melakukan diskusi bersama kelompok. Saya akan menunggu sampai lawan bicara selesai, lalu merangkum isinya sebelum saya menanggapi. \[109, 351\].
 - **Tingkat Cakap (Skor 3):**  Dalam 2 minggu kedepan, saya akan mencoba untuk membantu teman saya yang membutuhkan bantuan secara akademik maupun sebagai teman. \[359\].
 - **Tingkat Berkembang (Skor 2):** Dalam 2 minggu ke depan, saya ingin bisa meriview materi yang diberi. \[359\].
 - **Tingkat Awal (Skor 1):** Saya orang yang susah fokus. \[125, 360\].
+=======
+- **Tingkat Unggul (Skor 4):** Berhasil memetakan kelima domain kehidupan secara realistis \[116\]. Mampu membedakan dengan sangat jernih antara Pribadi, Kepribadian, dan Peran Naratif \[116\]. Sasaran pertumbuhan dirumuskan secara sangat spesifik, terukur, berfokus pada perubahan perilaku komunikatif yang nyata, dan dilengkapi rencana umpan balik dari orang lain \[109, 351\].
+- **Tingkat Cakap (Skor 3):** Memetakan domain kehidupan dengan baik \[116\]. Mampu mengidentifikasi perbedaan peran komunikasi secara relevan dan menghindari stereotip \[360\]. Sasaran pertumbuhan sudah berorientasi pada perilaku komunikatif meskipun ukurannya masih bisa dipertegas lagi \[359\].
+- **Tingkat Berkembang (Skor 2):** Pemetaan domain kehidupan atau perbedaan peran masih terasa sangat umum, kaku, atau menggunakan asumsi/label sepihak \[360\]. Sasaran pertumbuhan dirumuskan secara abstrak atau berfokus pada hasil akhir saja, bukan perilaku komunikasinya \[359\].
+- **Tingkat Awal (Skor 1):** Belum memperlihatkan pemahaman tentang perbedaan peran naratif \[360\]. Kepribadian diperlakukan sebagai stempel batin yang kaku ("saya memang begini") tanpa adanya sasaran pertumbuhan perilaku yang jelas \[125, 360\].
+>>>>>>> 2bfd0232afa4e37932d5395f7beaaed054577d30
 
 ------------------------------------------------------------------------
 
