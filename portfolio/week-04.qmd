@@ -2,7 +2,7 @@
 title: "Five-Language Translation Portfolio"
 week: 4
 status: "Siap dinilai"
-self_score: "16/20"
+self_score: "15/20"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -25,7 +25,7 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 {{< include ../includes/evidence-template.md >}}
 ## Core meaning
 
-**Fakta yang tidak boleh berubah:** GIS menggabungkan data lokasi (spasial) dengan informasi pelengkap (atribut) untuk membantu pengambilan keputusan berdasarkan "di mana" sesuatu terjadi. Esensi ini harus tetap utuh di kelima versi.
+**Fakta yang tidak boleh berubah:** GIS (Sistem Informasi Geografis) adalah sistem berbasis komputer yang digunakan untuk menangkap, menyimpan, mengelola, menganalisis, dan menampilkan data yang memiliki referensi spasial (geografis), sehingga mampu mengintegrasikan data atribut dan data keruangan untuk mendukung pengambilan keputusan berbasis lokasi. Esensi ini harus tetap utuh di kelima versi.
 
 | Target/character | Versi language | Alasan adaptasi |
 |---|---|---|
@@ -53,8 +53,8 @@ AI digunakan untuk memeriksa apakah kelima versi mempertahankan esensi inti (men
 |---|---:|---|
 | Person & Character | 3 | Lima target dibedakan berdasarkan kebutuhan, bukan stereotipe |
 | Objective & State | 3 | Core meaning dan action konsisten |
-| Repertoire, Language & AI | 4 | Lima repertoire dengan rationale dan fact-check |
+| Repertoire, Language & AI | 3 | Lima repertoire dengan rationale dan fact-check |
 | Response & Adaptation | 3 | Pertanyaan target menghasilkan penjelasan tambahan |
 | Agreement, Action & Relationship | 3 | Deadline dan jalur bantuan eksplisit |
 
-**Total: 16/20 — Kompeten.**
+**Total: 15/20 — Kompeten.**
