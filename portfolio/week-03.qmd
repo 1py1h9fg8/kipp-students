@@ -2,7 +2,7 @@
 title: "Relationship Conversation"
 week: 3
 status: "Belum dimulai"
-self_score: "—"
+self_score: ""
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -23,3 +23,46 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 :::
 
 {{< include ../includes/evidence-template.md >}}
+## Konteks dan relationship state
+
+Saya dan Rekan C berada dalam satu kelompok tugas esai. Bagian yang menjadi tanggung jawab Rekan C belum dikerjakan hingga batas waktu, dan saya sempat merasa cemas serta ingin langsung mengambil alih bagiannya.
+
+**State sebelum percakapan:** hubungan masih baik, tetapi saya mulai merasa kesal dan sempat berpikir buruk tentang Rekan C. Saya memberi skor ketegangan 6/10. Objective saya adalah memahami kendala Rekan C dan menyepakati pembagian ulang tanpa menyalahkan.
+
+## Potongan transcript
+
+> **Saya:** "Aku mau nanya soal bagian esai yang belum kelar. Kemarin sampai jam tujuh pagi bagianmu belum ada. Aku jadi khawatir ini bakal telat."  
+> **Rekan C:** "Sorry banget, aku kesusahan sama materinya. Aku nggak ngerti bagian analisis datanya."  
+> **Saya:** "Jadi kamu bukan lupa, tapi kesulitan sama bagian analisisnya?"  
+> **Rekan C:** "Iya, aku udah nyoba tapi nggak paham harus mulai dari mana."  
+> **Saya:** "Oke, aku nggak mau kamu ngerjain sendirian sambil bingung. Gimana kalau kita kerjain bagian itu bareng besok sore, terus sisanya kamu lanjutin?"  
+> **Rekan C:** "Boleh, itu ngebantu banget. Makasih ya."
+
+## Analisis listening, boundary, dan repair
+
+Saya memulai dengan observasi spesifik ("bagianmu belum ada sampai jam tujuh") tanpa label seperti "kamu teledor". Parafrasa saya ("jadi kamu bukan lupa, tapi kesulitan?") menghasilkan informasi baru: masalahnya bukan kemalasan, melainkan kesulitan memahami materi. Karena itu saya mengadaptasi respons dari "ambil alih bagiannya" menjadi "kerjakan bareng".
+
+**Boundary:** saya menyepakati bahwa bagian analisis dikerjakan bersama besok sore, dan sisanya tetap tanggung jawab Rekan C. **Agreement:** Rekan C akan memberi kabar lebih awal jika ada kendala berikutnya, supaya tidak menumpuk di akhir.
+
+Saya juga melakukan repair: "Maaf kalau pesanku tadi terkesan menekan. Seharusnya aku tanya dulu kendalanya sebelum khawatir." Rekan C menerima repair tersebut.
+
+## Relationship outcome dan evidence
+
+- Catatan kesepakatan pembagian ulang di aplikasi pesan.
+- Balasan Rekan C yang menyatakan bagian analisis selesai dikerjakan bersama.
+- Check-in beberapa hari kemudian: bagian esai selesai tepat waktu tanpa konflik.
+- Ketegangan yang saya rasakan turun dari 6/10 menjadi 2/10; ini self-report, bukan fakta objektif tentang Rekan C.
+
+AI tidak digunakan untuk menulis isi percakapan karena menyangkut percakapan personal; AI hanya membantu menyusun kerangka analisis.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Kebutuhan saya dan Rekan C dikenali |
+| Objective & State | 3 | Ketegangan awal dan state tujuan dinyatakan |
+| Repertoire, Language & AI | 3 | Observation, paraphrase, boundary, request, repair |
+| Response & Adaptation | 3 | Kesulitan Rekan C menghasilkan kerja bareng |
+| Agreement, Action & Relationship | 3 | Pembagian ulang, kesepakatan, dan repair eksplisit |
+
+**Total: 15/20 — Kompeten.**
