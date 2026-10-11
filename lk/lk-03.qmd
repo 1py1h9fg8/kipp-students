@@ -70,7 +70,7 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 # Lembar Kerja Mahasiswa
 
 **Nama Praktikan:** *"Tirta WEning P. H."*  
-**Nama Mitra Latihan:** *"inisial EC"*  
+**Nama Mitra Latihan:** *"inisial C"*  
 **Tanggal Pelaksanaan:** 09 Oktober 2026  
 
 ---
@@ -81,7 +81,7 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Tingkat 1 - Kata (Isi Literal Masalah):**
    *Apa fakta objektif atau kejadian nyata yang diceritakan oleh mitra Anda? (Hindari generalisasi seperti "selalu" atau "tidak pernah")*
    *Jawab:*
-   Mitra saya bercerita bahwa ia harus menyelesaikan tiga tugas kelompok di minggu yang sama sambil mempersiapkan ujian tengah semester, dan salah satu kelompoknya belum membagi tugas dengan jelas sehingga ia bingung harus mulai dari mana.
+   Mitra saya bercerita bahwa ia harus menyelesaikan tugas kelompok di minggu yang sama sambil mempersiapkan ujian tengah semester, dan salah satu kelompoknya belum membagi tugas dengan jelas sehingga ia bingung harus mulai dari mana.
 
 2. **Tingkat 2 - Makna (Parafrasa Anda):**
    *Tuliskan kembali kalimat rangkuman/parafrasa yang Anda gunakan di depan mitra untuk mengonfirmasi cerita mereka.*

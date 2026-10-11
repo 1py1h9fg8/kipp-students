@@ -1,7 +1,7 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Siap dimilai"
+status: "Siap dinilai"
 self_score: "15/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
