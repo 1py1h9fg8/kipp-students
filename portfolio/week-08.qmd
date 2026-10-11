@@ -1,35 +1,10 @@
-<<<<<<< HEAD
----
-title: "UTS Performance Evidence Package"
-=======
-﻿---
+
 title: "Portfolio Minggu 8 — UTS KIPP"
->>>>>>> 2bfd0232afa4e37932d5395f7beaaed054577d30
 week: 8
 status: "Belum dimulai"
 self_score: "—"
 assessor_score: "—"
-<<<<<<< HEAD
-description: "Integrated performance Target–Attention–Interest."
-categories: [Assessment, UTS]
----
 
-## Kompetensi target
-
-Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.
-
-## Evidence wajib
-
-- Performance card dan initial state.
-- Rekaman/transcript serta observer sheet.
-- Feedback, replay, evidence improvement, dan reflection.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
-{{< include ../includes/evidence-template.md >}}
-=======
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
@@ -60,4 +35,3 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
 | 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
 | 3b | [hasil_3b.qmd](UTS/hasil_3b_07381119.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
->>>>>>> 2bfd0232afa4e37932d5395f7beaaed054577d30
