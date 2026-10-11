@@ -1,8 +1,8 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "15/20"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -23,3 +23,56 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 :::
 
 {{< include ../includes/evidence-template.md >}}
+## Initial assumption dan rencana discovery
+
+Saya berasumsi ibu kesulitan mengisi nilai rapor karena jumlah siswa terlalu banyak dan ia kurang paham teknologi. Saya mewawancarai ibu (samaran JMK), seorang guru, sebelum mengusulkan solusi apa pun.
+
+Pertanyaan utama:
+
+1. Ceritakan terakhir kali Anda kerepotan mengurus nilai.
+2. Pada langkah mana Anda mengalami kesulitan?
+3. Apa dampaknya terhadap pekerjaan atau waktu Anda?
+4. Cara apa yang sekarang Anda gunakan untuk mengatasinya?
+5. Constraint apa yang perlu dipertahankan?
+
+## Potongan transcript
+
+> **JMK:** "Dua minggu lalu saya harus mengisi nilai rapor untuk 90 siswa dalam seminggu. Banyak tugas belum saya periksa, jadi saya lembur tiap malam."  
+> **Saya:** "Jadi masalahnya bukan cuma jumlah siswa, tapi nilai yang menumpuk karena tidak dicatat bertahap?"  
+> **JMK:** "Betul. Saya sering lupa mencatat nilai setiap minggu, jadi numpuk di akhir."  
+> **Saya:** "Seberapa sering itu memengaruhi pekerjaan Anda?"  
+> **JMK:** "Hampir tiap akhir semester, dan saya khawatir ada nilai yang salah karena buru-buru."  
+> **Saya:** "Apa yang tidak boleh hilang jika prosesnya diperbaiki?"  
+> **JMK:** "Jangan sampai saya harus pakai cara yang ribet atau aplikasi baru yang saya tidak paham."
+
+## Pembaruan pembacaan
+
+Initial assumption "jumlah siswa terlalu banyak" tidak cukup didukung. Evidence interview menunjukkan tiga kemungkinan masalah: nilai tidak dicatat bertahap, tidak ada kebiasaan mencatat mingguan, dan ibu menolak proses yang menambah kerumitan teknologi. Satu interview belum membuktikan prevalensi; saya menandainya sebagai discovery awal.
+
+**Shared problem statement yang dikonfirmasi ibu:**
+
+> "Seorang guru mengalami kesulitan mencatat dan memeriksa nilai secara bertahap setiap minggu sehingga nilai menumpuk menjelang rapor dan ia harus lembur. Ia membutuhkan cara mencatat nilai yang sederhana dan bisa dilakukan di sela-sela jam mengajar, dengan mempertimbangkan banyaknya siswa, keterbatasan kemampuan digital, dan tenggat sekolah."
+
+Ibu mengubah frasa awal "aplikasi pencatatan nilai" menjadi "cara mencatat yang sederhana" karena ia belum menyetujui bentuk solusi tertentu.
+
+## Evidence, feedback, dan next step
+
+- Catatan wawancara ±15 menit dengan consent lisan.
+- Identitas ibu disamarkan (JMK), tidak ada data siswa yang dicatat.
+- Pesan konfirmasi problem statement dari ibu.
+- Feedback observer: satu pertanyaan saya masih leading, terutama "apakah aplikasi akan membantu?"; pertanyaan itu dikeluarkan dari analisis.
+- Next practice: melakukan wawancara tambahan dengan guru lain dan menanyakan current workaround sebelum menyebut solusi.
+
+AI dipakai untuk memberi label `fact`, `interpretation`, dan `solution suggestion` pada catatan wawancara. Saya memeriksa ulang setiap label terhadap catatan asli dan tidak memasukkan nama atau data sensitif.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Pengalaman dan constraint ibu dipetakan |
+| Objective & State | 3 | Asumsi awal diperbarui menjadi problem statement |
+| Repertoire, Language & AI | 3 | Open question, paraphrase, confirmation, dan AI terbatas |
+| Response & Adaptation | 3 | Solusi awal ditahan setelah response |
+| Agreement, Action & Relationship | 3 | Problem statement dikonfirmasi; next interview jelas |
+
+**Total: 15/20 — Kompeten.**

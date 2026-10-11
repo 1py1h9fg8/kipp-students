@@ -42,78 +42,55 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 ## 📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
 
 ### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
-*   **Nama Samaran:** 
-*   **Peran/Pekerjaan Nyata:** 
-*   **Domain Hubungan:** Rekan Kerja / Pelanggan / Rekan Mahasiswa *(Coret yang tidak perlu)*
-*   **Konteks Lingkungan:** *(Misal: Kantin Kampus, Kelompok Proyek Kelas, Administrasi Jurusan)*
+*   **Nama Samaran:** inisial JMK 
+*   **Peran/Pekerjaan Nyata:** Guru
+*   **Domain Hubungan:** ~~Rekan Kerja~~ / Keluarga / ~~Rekan Mahasiswa~~ *(Coret yang tidak perlu)*
+*   **Konteks Lingkungan:** *Sekolah*
 
 ---
 
-### 📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
+## 📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
 
-#### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
-*   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
-    > 
+#### Pertanyaan 1: Kejadian Nyata & Contoh Konkret
+> Saya bertanya, "Bu, kira-kira ada kejadian apa baru-baru ini yang bikin repot waktu mengajar?" Ibu bercerita bahwa dua minggu lalu ia harus mengisi nilai rapor untuk 3 kelas (sekitar 90 siswa) dalam waktu seminggu. Banyak nilai yang belum tercatat rapi karena sebagian tugas siswa belum ia periksa, dan ia harus mengejar data ke wali kelas lain.
 
-#### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
-*   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
-    > 
+#### Pertanyaan 2: Dampak Nyata & Beban Masalah
+> Ibu merasa kewalahan dan cemas karena harus lembur di malam hari untuk mengejar deadline. Ia khawatir nilai yang dimasukkan tidak akurat karena terburu-buru, dan merasa bersalah kalau ada siswa yang nilainya salah. Waktu istirahat dan waktu bersama keluarga jadi berkurang.
 
-#### **Pertanyaan 3: Pemetaan Pihak Terdampak**
-*   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
-    > 
+#### Pertanyaan 3: Pemetaan Pihak Terdampak
+> Yang ikut terdampak: ibu sendiri (kelelahan), siswa (berisiko dapat nilai yang tidak akurat atau telat), wali kelas (kesulitan menggabungkan nilai), dan pihak sekolah (rapor terlambat diserahkan ke orang tua).
 
-#### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
-*   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
-    > 
+#### Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)
+> Ibu ingin bisa mengisi nilai dengan tenang dan tepat waktu tanpa harus lembur, sehingga ia punya waktu cukup untuk memeriksa tugas dengan teliti dan tetap punya waktu untuk keluarga. Ia ingin tahu perkembangan nilai siswa secara berkala, bukan menumpuk di akhir.
 
-#### **Pertanyaan 5: Batasan & Kendala Lapangan**
-*   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
-    > 
+#### Pertanyaan 5: Batasan & Kendala Lapangan
+> Kendalanya: waktu mengajar yang padat, banyaknya jumlah siswa, keterbatasan kemampuan ibu dalam menggunakan perangkat digital, dan kebijakan sekolah yang mewajibkan nilai masuk sebelum tanggal tertentu.
 
 ---
 
 ## ✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN
 
-Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasumber Anda. **Aturan utama: Pernyataan ini TIDAK BOLEH menyebutkan solusi teknis (seperti aplikasi, website, database, dll.)!**
-
-### 📐 Formula Standar:
-> **`[Pribadi/Peran]` mengalami `[keadaan yang dapat diamati]` ketika `[konteks]`, sehingga `[dampak]`. Ia membutuhkan `[hasil/kemampuan]`, dengan mempertimbangkan `[kendala]`.**
-
-#### 💡 Contoh Model Buku (Kasus Kantin Kampus):
-*Mahasiswa pengguna kantin mengalami antrean yang tidak dapat diperkirakan pada jam pergantian kuliah sehingga terlambat masuk kelas. Mereka membutuhkan cara mengetahui waktu tunggu dan mengambil pesanan lebih cepat, dengan mempertimbangkan kemampuan kasir, biaya pemilik, serta akses pengguna tanpa telepon pintar.*
-
----
-
 ### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
-*Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
-> 
+> Seorang guru mengalami penumpukan pekerjaan pemeriksaan dan pencatatan nilai menjelang akhir semester sehingga harus lembur dan berisiko membuat nilai tidak akurat. Ia membutuhkan cara agar nilai dapat tercatat dan diperiksa secara bertahap tanpa mengganggu waktu mengajar, dengan mempertimbangkan banyaknya siswa, keterbatasan kemampuan digital, dan tenggat sekolah.
 
 ### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
-*Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
-> 
+> Setelah saya bacakan draft 1, ibu menambahkan bahwa masalah sebenarnya bukan hanya di akhir semester — nilai juga sering terlambat dicatat setiap minggu karena ia lupa. Maka pernyataan diperbaiki: Seorang guru mengalami kesulitan mencatat dan memeriksa nilai secara bertahap setiap minggu sehingga nilai menumpuk menjelang rapor dan ia harus lembur. Ia membutuhkan cara mencatat nilai dengan cepat dan sederhana yang bisa dilakukan di sela-sela jam mengajar, dengan mempertimbangkan banyaknya siswa, keterbatasan kemampuan digital, dan tenggat sekolah.
 
 ---
 
 ## 🎯 FASE 4: REFLEKSI INTRAPRIBADI
-Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
-1. *Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?*
-2. *Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?*
-3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
 
 > **Jurnal Refleksi:**
-> 
+> Pada awalnya saya cukup sulit menahan diri untuk tidak langsung menyarankan "buat aplikasi pencatatan nilai" saat ibu bercerita soal kewalahan. Namun setelah mendengarkan lebih dalam, saya sadar kebutuhan ibu bukanlah teknologi canggih — ia hanya butuh cara mencatat yang sederhana dan bisa dilakukan bertahap. Asumsi awal saya bahwa ibu kesulitan karena tidak paham teknologi ternyata keliru; sebenarnya masalahnya adalah kebiasaan mencatat yang menumpuk. Saya berjanji untuk membantu ibu menyusun jadwal kecil pencatatan nilai mingguan dan menemaninya mencoba cara baru yang lebih sederhana, sebagai langkah nyata menjaga kepercayaan.
 
 ---
 
-## 📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
-Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 berikut sebelum dikumpulkan ke dalam portofolio Anda.
+## 📊 FASE 5: RUBRIK PENILAIAN MANDIRI
 
-| Kriteria Evaluasi | ⭐ Belum Tampak (Skor < 60) | ⭐⭐ Mulai Berkembang (Skor 60-79) | ⭐⭐⭐ Cakap / Unggul (Skor 80-100) | Skor Mandiri |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | |
-| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | |
-| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | |
-| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | |
-
+| Kriteria Evaluasi | Skor Mandiri |
+| :--- | :---: |
+| Kualitas Mendengarkan | 85 |
+| Ketepatan Rumusan Masalah | 85 |
+| Etika & Penjagaan Privasi | 90 |
+| Keandalan & Hubungan | 85 |
 *Simpan lembar kerja ini, catatan log wawancara, dan rekaman (jika ada izin) sebagai **Artefak Portofolio Bab 5** Anda.*
