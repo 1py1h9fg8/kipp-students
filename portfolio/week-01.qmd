@@ -1,7 +1,6 @@
 ---
 title: "Character Map"
 week: 1
-<<<<<<< HEAD
 status: "Siap dinilai"
 self_score: "15/ 20"
 assessor_score: "—"
