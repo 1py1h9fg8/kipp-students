@@ -1,8 +1,8 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "16/20"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -23,3 +23,38 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 :::
 
 {{< include ../includes/evidence-template.md >}}
+## Core meaning
+
+**Fakta yang tidak boleh berubah:** GIS menggabungkan data lokasi (spasial) dengan informasi pelengkap (atribut) untuk membantu pengambilan keputusan berdasarkan "di mana" sesuatu terjadi. Esensi ini harus tetap utuh di kelima versi.
+
+| Target/character | Versi language | Alasan adaptasi |
+|---|---|---|
+| Anak-anak (~10 thn) | "Bayangkan kamu punya peta harta karun yang ajaib. Kalau kamu sentuh satu titik, muncul info lengkapnya — 'di sini ada sekolah, di sini ada taman.' GIS itu kayak peta ajaib gitu: kamu bisa lihat banyak tempat sekaligus dan tahu mana yang paling dekat." | Analogi konkret dari dunia anak; menghindari istilah abstrak |
+| Sahabat (beda jurusan) | "Jadi GIS itu basically peta yang nggak cuma gambar doang, tapi pinter. Dia bisa gabungin peta sama data. Misal kamu mau tau 'kecamatan mana yang paling banyak hujannya' — GIS jawab dalam satu layar." | Santai, hangat, tanpa menggurui |
+| Rekan teknis | "GIS mengintegrasikan data vektor dan raster dengan basis data atribut, memungkinkan analisis overlay, buffering, dan spatial query. Dengan CRS yang tepat, akurasi analisis dapat dijaga." | Jargon presisi dan parameter spesifik sesuai standar industri |
+| Manajer | "Implementasi GIS memungkinkan organisasi memvisualisasikan data berbasis lokasi secara terpadu, mendukung optimalisasi alokasi sumber daya dan manajemen risiko, menekan biaya operasional." | Menekankan value proposition, biaya, dan risiko |
+| Publik umum | "Pernah buka aplikasi peta atau lihat berita banjir? Di baliknya ada GIS — teknologi yang menggabungkan peta dengan informasi, biar kita tahu 'di mana' sesuatu terjadi. Dipakai pemerintah untuk rencanakan penanggulangan bencana." | Menghubungkan dengan kehidupan sehari-hari; bahasa inklusif |
+
+## Evidence understanding
+
+Saya menguji versi anak-anak kepada satu adik/teman yang tidak memahami GIS tanpa menjelaskan konteks tambahan. Target menjawab bahwa ia memahami GIS sebagai "peta yang bisa kasih info", tetapi bertanya apakah peta itu bisa dipakai di HP.
+
+Saya menambahkan kalimat: "Iya, aplikasi peta di HP itu contoh GIS yang paling sering kamu pakai." Adaptasi ini memperjelas kaitan dengan pengalaman sehari-hari tanpa mengubah core meaning.
+
+## Analisis dan batas
+
+Repertoire berubah dari analogi anak-anak, obrolan santai, technical notice, decision brief, hingga public announcement. Saya tidak menganggap versi publik cocok untuk semua orang — seorang pengguna yang butuh keputusan teknis membutuhkan detail yang tidak relevan bagi masyarakat luas.
+
+AI digunakan untuk memeriksa apakah kelima versi mempertahankan esensi inti (menggabungkan lokasi dengan informasi). Saya menolak versi AI yang menambahkan jargon "spatial analysis" pada versi anak-anak karena tidak sesuai profil audiens.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Lima target dibedakan berdasarkan kebutuhan, bukan stereotipe |
+| Objective & State | 3 | Core meaning dan action konsisten |
+| Repertoire, Language & AI | 4 | Lima repertoire dengan rationale dan fact-check |
+| Response & Adaptation | 3 | Pertanyaan target menghasilkan penjelasan tambahan |
+| Agreement, Action & Relationship | 3 | Deadline dan jalur bantuan eksplisit |
+
+**Total: 16/20 — Kompeten.**

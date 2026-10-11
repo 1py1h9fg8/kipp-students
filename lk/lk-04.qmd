@@ -18,98 +18,98 @@ Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih rag
 ---
 
 ## **B. Identitas Mahasiswa**
-*   **Nama Lengkap:** ______________________________________
-*   **NIM:** ______________________________________
-*   **Program Studi:** ______________________________________
-*   **Tanggal Pengisian:** ______________________________________
+*   **Nama Lengkap:** Tirta Wening Putri Harsono
+*   **NIM:** 18225095
+*   **Program Studi:** Sistem dan Teknoogi Informasi
+*   **Tanggal Pengisian:** 10 Oktober 2026
 
 ---
 
-## **C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)**
-Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan "sumsum" atau kebenaran inti dari pesan Anda.
+## C. Tahap 1: Detoks Jargon
 
-1. **Konsep Teknis yang Dipilih:**
-   *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
-   *Jawab:*
-   
-2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
-   *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
-   *Jawab:*
-   
-3. **Daftar Jargon Teknis & Artian Sederhananya:**
-   *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
-   *   **Jargon 1:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 2:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 3:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
+**1. Konsep Teknis yang Dipilih:**
+*(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
+*Jawab:*
+> Sistem Informasi Geografis (GIS)
 
-4. **Kebenaran Inti (*Marrow of the Message*):**
-   *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
-   *Jawab:*
-   
----
+**2. Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
+*(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
+*Jawab:*
+> GIS adalah sistem berbasis komputer yang digunakan untuk menangkap, menyimpan, mengelola, menganalisis, dan menampilkan data yang memiliki referensi spasial (geografis), sehingga mampu mengintegrasikan data atribut dan data keruangan untuk mendukung pengambilan keputusan berbasis lokasi.
 
-## **D. Tahap 2: Matriks Terjemahan Lima Bahasa**
-Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai bagi masing-masing dari lima audiens berikut.
+**3. Daftar Jargon Teknis & Artian Sederhananya:**
+*Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
+- **Jargon 1:** `Referensi spasial` → Arti Sederhana: data yang punya lokasi/posisi di peta
+- **Jargon 2:** `Data atribut` → Arti Sederhana: informasi pelengkap tentang suatu tempat (misal nama, luas, jumlah penduduk)
+- **Jargon 3:** `Pengambilan keputusan berbasis lokasi` → Arti Sederhana: memutuskan sesuatu berdasarkan letak geografisnya
 
-### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
-*   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
-*   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
-*   *Draf Terjemahan Anda:*
-   
-   
-### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
-*   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
-*   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
-*   *Draf Terjemahan Anda:*
-   
-   
-### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
-*   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
-*   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
-*   *Draf Terjemahan Anda:*
-   
-   
-### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
-*   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
-*   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
-*   *Draf Terjemahan Anda:*
-   
-   
-### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
-*   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
-*   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
-*   *Draf Terjemahan Anda:*
-   
-   
+**4. Kebenaran Inti (*Marrow of the Message*):**
+*(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
+*Jawab:*
+> GIS adalah peta pintar yang menggabungkan lokasi dengan informasi, sehingga kita bisa melihat pola dan mengambil keputusan yang lebih baik berdasarkan "di mana" sesuatu terjadi.
 
 ---
 
-## **E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)**
-*Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.*
+## D. Tahap 2: Matriks Terjemahan Lima Bahasa
 
-1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
-   *Jawab:*
-   
-2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
-   *Jawab:*
-   
-3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
-   *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
-   *Jawab:*
-   
+### 1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)
+- **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
+- **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
+- *Draf Terjemahan Anda:*
+> "Bayangkan kamu punya peta harta karun, tapi peta itu ajaib. Kalau kamu sentuh satu titik di peta, muncul info lengkapnya — 'di sini ada sekolah, di sini ada taman, di sini banyak temanmu tinggal.' Nah, GIS itu kayak peta ajaib gitu! Kamu bisa lihat di mana sekolah, rumah sakit, dan tempat main dalam satu gambar, terus bisa tahu mana tempat yang paling dekat atau paling ramai. Jadi kalau kamu mau cari jalan ke rumah teman, GIS bantu kamu lihat semua sekaligus."
+
+### 2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)
+- **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
+- **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
+- *Draf Terjemahan Anda:*
+> "Jadi GIS itu basically peta yang nggak cuma gambar doang, tapi pinter. Bayangin kamu buka Google Maps — itu contoh simpelnya. Tapi GIS lebih dalam: dia bisa gabungin peta sama data. Misal kamu mau tau 'kecamatan mana yang paling banyak hujannya' atau 'rumah sakit mana yang paling deket dari sini' — GIS jawab semua itu dalam satu layar. Jadi bukan cuma 'ini di mana', tapi 'ini di mana DAN gimana kondisinya'."
+
+### 3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)
+- **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
+- **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
+- *Draf Terjemahan Anda:*
+> "GIS mengintegrasikan data vektor dan raster dengan basis data atribut melalui model data spasial, memungkinkan analisis overlay, buffering, dan spatial query. Dengan dukungan CRS (Coordinate Reference System) yang tepat, akurasi analisis dapat dijaga pada tingkat toleransi yang diinginkan. Output berupa peta tematik dan analisis multi-kriteria yang dapat digunakan untuk pemodelan spasial dan pengambilan keputusan."
+
+### 4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)
+- **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
+- **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
+- *Draf Terjemahan Anda:*
+> "Implementasi GIS memungkinkan organisasi memvisualisasikan dan menganalisis data berbasis lokasi secara terpadu, sehingga mendukung optimalisasi alokasi sumber daya dan manajemen risiko. Dengan integrasi data spasial dan atribut, pengambilan keputusan menjadi lebih cepat dan akurat, menekan biaya operasional serta meminimalkan kesalahan perencanaan. Sistem ini menjadi dasar perencanaan wilayah dan respons bencana yang efisien."
+
+### 5. Ragam Bahasa: Publik Umum (Masyarakat Luas)
+- **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
+- **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
+- *Draf Terjemahan Anda:*
+> "Pernah nggak kamu buka aplikasi peta buat cari jalan, atau lihat berita soal banjir di daerah tertentu? Di balik itu semua ada GIS — teknologi yang menggabungkan peta dengan informasi, biar kita bisa tahu 'di mana' sesuatu terjadi dan 'gimana kondisinya'. GIS dipakai pemerintah buat rencanain penanggulangan bencana, buat tahu daerah mana yang rawan banjir, sampai buat sekolah menentukan lokasi baru. Intinya, GIS bikin informasi lokasi jadi lebih berguna buat kehidupan sehari-hari kita."
 
 ---
 
-## **F. Rubrik Evaluasi Mandiri & Penilaian Portofolio**
-Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam Portofolio Komunikasi akhir semester Anda.
+## E. Tahap 3: Refleksi Pembelajaran
+
+**1. Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
+*Jawab:*
+> Ragam yang paling sulit adalah untuk anak-anak, karena konsep "menggabungkan data dengan lokasi" sangat abstrak. Saya harus mencari analogi fisik yang benar-benar akrab di dunia anak tanpa kehilangan esensi GIS. Butuh beberapa kali percobaan sampai menemukan analogi "peta ajaib" yang menurut saya cukup mudah dipahami.
+
+**2. Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
+*Jawab:*
+> Saya jadi sadar bahwa istilah seperti "referensi spasial" dan "data atribut" yang saya pakai sehari-hari sebenarnya bisa dijelaskan dengan bahasa sederhana. Proses ini membuat saya lebih menghargai pentingnya komunikasi, dan menyadari bahwa pemahaman yang benar justru terlihat dari kemampuan menjelaskannya kepada orang awam.
+
+**3. Catatan Penggunaan AI Kopilot (Jika Ada):**
+*Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
+*Jawab:*
+> Saya meminta AI untuk berperan sebagai anak berusia 10 tahun dan mengkritik draf analogi GIS saya. Umpan baliknya: analogi "peta ajaib" cukup jelas, tetapi istilah "muncul info lengkapnya" masih abstrak; AI menyarankan untuk menambahkan contoh konkret seperti "muncul tulisan 'sekolah, 500 meter, 300 siswa'". Saran ini saya terapkan pada draf final.
+
+---
+
+## F. Rubrik Evaluasi Mandiri & Penilaian Portofolio
 
 | Kriteria | Skor 4 (Sangat Baik) | Skor 3 (Baik) | Skor 2 (Cukup) | Skor 1 (Kurang) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | |
-| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | |
-| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | |
-| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | |
-| **Total Skor (Maksimal 16)** | | | | | **___ / 16** |
+| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | 4 |
+| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | 4 |
+| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | 3 |
+| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | 3 |
+| **Total Skor (Maksimal 16)** | | | | | **14 / 16** |
 
 ---
 
