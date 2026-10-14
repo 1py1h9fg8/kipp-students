@@ -3,7 +3,7 @@ title: "Laporan UTS KIPP - Sesi 3b"
 subtitle: "Menawarkan solusi TI dan AI - target kedua"
 author: "Tirta Wening Putri Harsono"
 lang: id
-status: "Selesai simulasi"
+status: "Selesai tahap sesi"
 format:
   html:
     toc: true

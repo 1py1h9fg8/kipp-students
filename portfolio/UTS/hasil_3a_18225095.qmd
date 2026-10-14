@@ -3,7 +3,7 @@ title: "Laporan UTS KIPP - Sesi 3a"
 subtitle: "Menawarkan solusi TI dan AI - target pertama"
 author: "Tirta Wening Putri Harsono"
 lang: id
-status: "Selesai pada tahap sesi; hasil kerja kelompok dalam simulasi belum terverifikasi"
+status: "Selesai pada tahap sesi"
 format:
   html:
     toc: true
