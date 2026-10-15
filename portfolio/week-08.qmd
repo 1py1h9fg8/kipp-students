@@ -29,11 +29,11 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
 | Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Makalah ditandai selesai. |
-| 1 | [hasil_1_18225095.qmd](hasil_1_18225095.qmd) | Diri; Fajar sebagai pembanding | Selesai | Laporan ditandai selesai. |
-| 2a | [hasil_2a_18225095.qmd](hasil_2a_18225095.qmd) | Cyntia, K2-03 | Selesai | Laporan ditandai selesai. |
-| 2b | [hasil_2b_18225095.qmd](hasil_2b_18225095.qmd) |  Cyntia, K2-03; berbeda dari 2a | Selesai | Laporan ditandai selesai. |
-| 3a | [hasil_3a_18225095.qmd](hasil_3a_18225095.qmd) | Ali, K3-01 | Selesai | Laporan ditandai selesai. |
-| 3b | [hasil_3b_18225095.qmd](hasil_3b_18225095.qmd) | Fajar, K3-06 | Selesai | Laporan ditandai selesai. |
+| 1 | [hasil_1_18225095.qmd](UTS/hasil_1_18225095.qmd) | Diri; Fajar sebagai pembanding | Selesai | Laporan ditandai selesai. |
+| 2a | [hasil_2a_18225095.qmd](UTS/hasil_2a_18225095.qmd) | Cyntia, K2-03 | Selesai | Laporan ditandai selesai. |
+| 2b | [hasil_2b_18225095.qmd](UTS/hasil_2b_18225095.qmd) |  Cyntia, K2-03; berbeda dari 2a | Selesai | Laporan ditandai selesai. |
+| 3a | [hasil_3a_18225095.qmd](UTS/hasil_3a_18225095.qmd) | Ali, K3-01 | Selesai | Laporan ditandai selesai. |
+| 3b | [hasil_3b_18225095.qmd](UTS/hasil_3b_18225095.qmd) | Fajar, K3-06 | Selesai | Laporan ditandai selesai. |
 
 ## Refleksi lintas sesi
 
